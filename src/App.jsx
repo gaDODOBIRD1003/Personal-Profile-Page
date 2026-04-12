@@ -109,32 +109,13 @@ function App() {
         <div className="text-center">
           <h2 className="text-3xl font-bold mb-6">Skills</h2>
 
-          <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 text-lg font-medium text-gray-900 dark:text-white">
-
-            <div className="bg-white dark:bg-orange-700 p-4 rounded shadow hover:scale-105 transition">
-              HTML
-            </div>
-
-            <div className="bg-white dark:bg-sky-400 p-4 rounded shadow hover:scale-105 transition">
-              CSS / Tailwind
-            </div>
-
-            <div className="bg-white dark:bg-yellow-400 p-4 rounded shadow hover:scale-105 transition">
-              JavaScript
-            </div>
-
-            <div className="bg-white dark:bg-blue-400 p-4 rounded shadow hover:scale-105 transition">
-              React
-            </div>
-
-            <div className="bg-white dark:bg-purple-400 p-4 rounded shadow hover:scale-105 transition">
-              Vite
-            </div>
-
-            <div className="bg-white dark:bg-green-400 p-4 rounded shadow hover:scale-105 transition">
-              Git
-            </div>
-
+          <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 text-lg font-medium">
+            <div className="bg-white dark:bg-orange-700 p-4 rounded shadow hover:scale-105 transition">HTML</div>
+            <div className="bg-white dark:bg-sky-400 text-black p-4 rounded shadow hover:scale-105 transition">CSS / Tailwind</div>
+            <div className="bg-white dark:bg-javascriptyellow text-black p-4 rounded shadow hover:scale-105 transition">JavaScript</div>
+            <div className="bg-white dark:bg-aquablue text-black p-4 rounded shadow hover:scale-105 transition">React</div>
+            <div className="bg-white dark:bg-vite text-black p-4 rounded shadow hover:scale-105 transition">Vite</div>
+            <div className="bg-white dark:bg-git text-black p-4 rounded shadow hover:scale-105 transition">Git</div>
           </div>
         </div>
       </section>
