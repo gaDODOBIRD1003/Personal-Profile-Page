@@ -111,11 +111,11 @@ function App() {
 
           <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 text-lg font-medium">
             <div className="bg-white dark:bg-orange-700 p-4 rounded shadow hover:scale-105 transition">HTML</div>
-            <div className="bg-white dark:bg-sky-400 p-4 rounded shadow hover:scale-105 transition">CSS / Tailwind</div>
-            <div className="bg-white dark:bg-yellow-300 p-4 rounded shadow hover:scale-105 transition">JavaScript</div>
-            <div className="bg-white dark:bg-blue-400 p-4 rounded shadow hover:scale-105 transition">React</div>
-            <div className="bg-white dark:bg-purple-400 p-4 rounded shadow hover:scale-105 transition">Vite</div>
-            <div className="bg-white dark:bg-green-400 p-4 rounded shadow hover:scale-105 transition">Git</div>
+            <div className="text-black bg-white dark:bg-sky-400 p-4 rounded shadow hover:scale-105 transition">CSS / Tailwind</div>
+            <div className="text-black bg-white dark:bg-javascriptyellow p-4 rounded shadow hover:scale-105 transition">JavaScript</div>
+            <div className="text-black bg-white dark:bg-aquablue p-4 rounded shadow hover:scale-105 transition">React</div>
+            <div className="text-black bg-white dark:bg-vite p-4 rounded shadow hover:scale-105 transition">Vite</div>
+            <div className="text-black bg-white dark:bg-git p-4 rounded shadow hover:scale-105 transition">Git</div>
           </div>
         </div>
       </section>
