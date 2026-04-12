@@ -115,7 +115,7 @@ function App() {
             <div className="bg-white dark:bg-javascriptyellow text-black p-4 rounded shadow hover:scale-105 transition">JavaScript</div>
             <div className="bg-white dark:bg-aquablue text-black p-4 rounded shadow hover:scale-105 transition">React</div>
             <div className="bg-white dark:bg-vite text-black p-4 rounded shadow hover:scale-105 transition">Vite</div>
-            <div className="bg-white dark:bg-git text-black p-4 rounded shadow hover:scale-105 transition">Git</div>
+            <div className="bg-white dark:bg-git p-4 rounded shadow hover:scale-105 transition">Git</div>
           </div>
         </div>
       </section>
