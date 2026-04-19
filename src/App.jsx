@@ -7,6 +7,7 @@ import Projects from "./components/Projects";
 import Fun from "./components/Fun";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import Certificates from "./components/Certificates";
 
 function App() {
   const [theme, setTheme] = useState("dark");
@@ -20,6 +21,7 @@ function App() {
       <main>
         <Home />
         <About />
+        <Certificates />
         <Skills />
         <Projects />
         <Fun />

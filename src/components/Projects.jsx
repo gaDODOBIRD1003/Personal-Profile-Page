@@ -4,14 +4,14 @@ const projects = [
     description: "Responsive e-commerce UI built with HTML, CSS, and Bootstrap.",
     tags: ["HTML", "CSS", "Bootstrap"],
     emoji: "🛒",
-    link: "#",
+    link: "https://github.com/gaDODOBIRD1003/Shopping-Gads",
   },
   {
-    title: "Personal Profile Page",
+    title: "Personal Gads",
     description: "HTML & CSS passion project for layout and design practice.",
     tags: ["HTML", "CSS"],
     emoji: "👤",
-    link: "#",
+    link: "https://github.com/gaDODOBIRD1003/Portfolio-ni-Gads",
   },
   {
     title: "Disaster Awareness Game",
@@ -21,11 +21,11 @@ const projects = [
     link: "#",
   },
   {
-    title: "Platform Game",
-    description: "Simple platform game with obstacles and rewards.",
-    tags: ["Python", "Pygame"],
-    emoji: "🎮",
-    link: "#",
+    title: "Google Replica Home Page",
+    description: "Faux Google homepage built with HTML and CSS.",
+    tags: ["HTML", "CSS"],
+    emoji: "🔍",
+    link: "https://github.com/gaDODOBIRD1003/Google-Replica-Webpage",
   },
 ];
 
