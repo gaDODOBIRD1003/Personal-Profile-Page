@@ -1,12 +1,12 @@
 const skills = [
-  { name: "HTML", emoji: "🟠", level: 90, color: "bg-orange-500" },
-  { name: "CSS / Tailwind", emoji: "🔵", level: 80, color: "bg-sky-400" },
-  { name: "JavaScript", emoji: "🟡", level: 75, color: "bg-yellow-400" },
-  { name: "React", emoji: "⚛️", level: 70, color: "bg-cyan-400" },
-  { name: "Vite", emoji: "⚡", level: 70, color: "bg-purple-500" },
-  { name: "Git", emoji: "🐙", level: 65, color: "bg-red-500" },
-  { name: "Python", emoji: "🐍", level: 60, color: "bg-green-500" },
-  { name: "Bootstrap", emoji: "🅱️", level: 65, color: "bg-indigo-500" },
+  { name: "HTML", emoji: "🟠", level: 65, color: "bg-orange-500" },
+  { name: "CSS / Tailwind", emoji: "🔵", level: 20, color: "bg-sky-400" },
+  { name: "JavaScript", emoji: "🟡", level: 45, color: "bg-yellow-400" },
+  { name: "React", emoji: "⚛️", level: 30, color: "bg-cyan-400" },
+  { name: "Vite", emoji: "⚡", level: 75, color: "bg-purple-500" },
+  { name: "Git", emoji: "🐙", level: 80, color: "bg-red-500" },
+  { name: "Python", emoji: "🐍", level: 75, color: "bg-green-500" },
+  { name: "Bootstrap", emoji: "🅱️", level: 45, color: "bg-indigo-500" },
 ];
 
 function Skills() {
