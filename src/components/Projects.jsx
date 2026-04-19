@@ -4,14 +4,14 @@ const projects = [
     description: "Responsive e-commerce UI built with HTML, CSS, and Bootstrap.",
     tags: ["HTML", "CSS", "Bootstrap"],
     emoji: "🛒",
-    link: "https://github.com/gaDODOBIRD1003/Shopping-Gads",
+    link: "https://gadodobird1003.github.io/Shopping-Gads/",
   },
   {
-    title: "Personal Gads",
+    title: "Portfolio-ni-Gads",
     description: "HTML & CSS passion project for layout and design practice.",
     tags: ["HTML", "CSS"],
     emoji: "👤",
-    link: "https://github.com/gaDODOBIRD1003/Portfolio-ni-Gads",
+    link: "https://gadodobird1003.github.io/Portfolio-ni-Gads/",
   },
   {
     title: "Disaster Awareness Game",
