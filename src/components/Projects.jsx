@@ -25,7 +25,7 @@ const projects = [
     description: "Faux Google homepage built with HTML and CSS.",
     tags: ["HTML", "CSS"],
     emoji: "🔍",
-    link: "https://gadodobird1003.github.io/Personal-Profile-Page/",
+    link: "https://gadodobird1003.github.io/Google-Replica-Webpage/",
   },
 ];
 
